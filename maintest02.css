@@ -3,11 +3,7 @@ body {
 	width: 100%;
 	margin: auto;
 }
-@font-face {
-	font-family: "Lanenar";
-	src: url('LANENAR.ttf');
 
-}
 div.fixheader {
 	width: 100%;
 	height: 35px;
